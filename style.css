@@ -1,0 +1,35 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: black;
+}
+
+.perfis {
+    display: flex;
+    color: gray;
+}
+
+.perfis p {
+    text-align: center;
+}
+
+.userBox {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: #fff;
+}
+
+button{
+    background: black;
+    color: #fff;
+    border: 2px;
+    border-style: solid;
+    border-color: #fff;
+    border-radius: 5px;
+}
+
+.netflix {
+    text-align: center;
+}
